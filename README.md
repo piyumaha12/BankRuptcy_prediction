@@ -1,3 +1,4 @@
 # BankRuptcy_prediction
 
-This is my DataScience project, It is related to classification to predict that the given company will go bankrupt or not.
+It is related to classification problem, to predict that the given company will go bankrupt or not, given various parameters
+There are six inputs variable for the models **industrial risk, management risk, operational risk, credibility, competitiveness, financial flexibility**
