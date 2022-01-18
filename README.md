@@ -62,4 +62,10 @@ The web app was built in Python using the following libraries:
 7. XG-Boost
 8. Light Boost
 9. Naive Bayes
-10. 
+10. KNN
+11. AutoML libraries
+12. Neural network
+
+
+
+
