@@ -42,8 +42,13 @@ This project is binary classification type having two outputs **Bankrupt and Non
 # Libraries Uses:
 The web app was built in Python using the following libraries:
 
-- streamlit
-- pandas
-- numpy
-- scikit-learn
-- tensorflow
+- Streamlit
+- Pandas
+- Numpy
+- Scikit-Learn
+- TensorFlow
+- Seaborn
+- Matplotlib
+- Plotly
+- Scipy
+- 
