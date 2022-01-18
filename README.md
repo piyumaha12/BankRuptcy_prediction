@@ -66,6 +66,8 @@ The web app was built in Python using the following libraries:
 11. AutoML libraries
 12. Neural network
 
-
-
+# Deployment
+The webapp looks like this: 
+![Annotation 2021-11-26 202005](https://user-images.githubusercontent.com/71897685/149886923-98560c83-e8c9-4d5e-9f00-bfae440cfc79.jpg)
+![Annotation 2021-11-26 202125 (2)](https://user-images.githubusercontent.com/71897685/149887860-4b1cc553-27db-4c07-b923-b1f75756c23a.jpg)
 
