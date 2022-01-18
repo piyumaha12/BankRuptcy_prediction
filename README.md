@@ -51,4 +51,15 @@ The web app was built in Python using the following libraries:
 - Matplotlib
 - Plotly
 - Scipy
-- 
+
+# List of Models used:
+1. Logistic regression
+2. Support vector machine
+3. Decision tree
+4. Random forest
+5. AdaBoost
+6. LG-boost
+7. XG-Boost
+8. Light Boost
+9. Naive Bayes
+10. 
