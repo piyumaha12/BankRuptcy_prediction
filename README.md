@@ -37,6 +37,9 @@ This web app predicts whether a company is getting Bankrupted or Not Bankrupted 
 
 **These Factors are divided in to 3 categories: High risk (1), Medium risk (0.5), And Low risk (0)**
 
+This project is binary classification type having two outputs **Bankrupt and Non-Bankrupt**
+
+# Libraries Uses:
 The web app was built in Python using the following libraries:
 
 - streamlit
