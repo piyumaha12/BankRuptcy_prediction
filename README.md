@@ -7,6 +7,9 @@ There are various reasons  oe factors behind the bankruptcy of company.
 
 This web app predicts whether a company is getting Bankrupted or Not Bankrupted based on the factors like Industrial Risk, Management Risk, Financial Flexibility, Credibility, Competitiveness, Operating Risk.
 
+### Reasons Behind bankruptcy:
+
+
 The input of these factors are based on 3 levels: Low = 0, Medium = 0.5, High = 1.
 
 The web app was built in Python using the following libraries:
