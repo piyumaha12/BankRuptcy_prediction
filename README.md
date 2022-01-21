@@ -1,4 +1,4 @@
-# Bankruptcy Prediction app deployment using Streamlit [app](https://share.streamlit.io/piyumaha12/bankruptcy-deployment/main/bankruptcy.py)
+# Bankruptcy Prediction app deployment using Streamlit [APP](https://share.streamlit.io/piyumaha12/bankruptcy-deployment/main/bankruptcy.py)
 ![Smith-Debnam-Articles-and-Insights-68-900x350-c-default](https://user-images.githubusercontent.com/71897685/149876757-aa4be791-5887-403e-82f0-923330694d13.png)
 
 ## What is Bankruptcy:
